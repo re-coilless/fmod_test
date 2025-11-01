@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Bank" id="{00fffad9-49f1-4eb2-8d97-e8f5143f0db4}">
+		<property name="name">
+			<value>delete_me-rmb_for_new_bank</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4bb0a508-e74c-455d-9cab-f38f6313e76d}</destination>
+		</relationship>
+	</object>
+</objects>
