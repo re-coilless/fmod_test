@@ -15,9 +15,13 @@
 {9e5f6674-ecca-4cb3-9e39-050604be24e9} bus:/music_reverb
 {8340afee-1bfb-481c-8b65-a1721703356c} bus:/reverb
 {40bdfd79-5dfd-4303-8a71-0792c637c380} bus:/ui
-{a64c8075-46b5-4066-93c8-d95634147bcc} event:/test_control_basic
+{fdbe9a6a-47e9-4581-bc87-4d7ffcf4c378} event:/dynamic_ost
+{a64c8075-46b5-4066-93c8-d95634147bcc} event:/intensity
+{c0d86b96-1480-422d-a0c1-bb1a03edebb4} event:/radio
+{8b4f7084-0320-4611-8e8c-0312b4f7469a} event:/steps
 {da290cac-e139-4b99-b883-ce1fc690a283} parameter:/Distance
 {2f99f806-4b51-4b0a-a879-566644591f29} parameter:/Migration Name Conflict (3)/lowpass
+{02b05cf8-0b91-4f8a-9913-97f1d531857a} parameter:/intensity
 {ddf75d16-bdbe-4460-908b-0a29bd483835} parameter:/lowpass
 {dadeda7a-c13b-484b-929e-d3c513e7173b} snapshot:/cave
 {bc5e80f9-a380-47c9-8799-3e02eea94feb} snapshot:/drugged
